@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cd35da374776311078db9530116d437c</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD3274234c0f0b31107b4bbcd62d605abe":{"u_quantidade":"Integer","u_quantidade.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Quantidade\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_item":"String","u_item.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Item \",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD3274234c0f0b31107b4bbcd62d605abe.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD3274234c0f0b31107b4bbcd62d605abe\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 04:03:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b274234c470b311078db9530116d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope>
+        <sys_update_name>sys_complex_object_b274234c470b311078db9530116d43be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 04:03:08</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</application>
+        <file_path/>
+        <instance_id>5ace1baa1b71f190c84543f4bd4bcbce</instance_id>
+        <instance_name>dev184573</instance_name>
+        <name>sys_complex_object_b274234c470b311078db9530116d43be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</name><namespace>FlowDesigner</namespace><scope_name>cd35da374776311078db9530116d437c</scope_name><serialized_content>{"FlowDesigner:ih_import_FD3274234c0f0b31107b4bbcd62d605abe":{"u_quantidade":"Integer","u_quantidade.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"integer\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Quantidade\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_item":"String","u_item.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Item \",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD3274234c0f0b31107b4bbcd62d605abe.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD3274234c0f0b31107b4bbcd62d605abe\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 04:03:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b274234c470b311078db9530116d43be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope><sys_update_name>sys_complex_object_b274234c470b311078db9530116d43be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 04:03:08</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>943678162</payload_hash>
+        <record_name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</record_name>
+        <reverted_from/>
+        <source>4135da374776311078db9530116d43bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 04:03:08</sys_created_on>
+        <sys_id>7e74234c470b311078db9530116d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c427190920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 04:03:08</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>b274234cec0b31106e9e896121ec78bf</update_guid>
+        <update_guid_history>b274234cec0b31106e9e896121ec78bf:943678162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-07 04:07:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>2d8807d198094e32957dd1e6ee0052a4</sys_id>
+        <sys_metadata>b274234c470b311078db9530116d43be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD3274234c0f0b31107b4bbcd62d605abe</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope>
+        <sys_scope_delete display_value="">1062f784612b4d438b5a1e2ef44bbc61</sys_scope_delete>
+        <sys_update_name>sys_complex_object_b274234c470b311078db9530116d43be</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_b274234c470b311078db9530116d43be">7e74234c470b311078db9530116d43bf</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-07 04:07:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

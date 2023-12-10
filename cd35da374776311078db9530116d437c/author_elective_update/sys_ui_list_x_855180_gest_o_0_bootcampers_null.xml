@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_855180_gest_o_0_bootcampers" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_855180_gest_o_0_bootcampers" element="NULL" name="x_855180_gest_o_0_bootcampers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">79d9528847c3311078db9530116d4342</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 22:37:01</sys_created_on>
+            <sys_id>fdd91a8847c3311078db9530116d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 22:37:01</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_855180_gest_o_0_bootcampers</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 22:37:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79d9528847c3311078db9530116d4342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_855180_gest_o_0_bootcampers</sys_name>
+            <sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope>
+            <sys_update_name>sys_ui_list_x_855180_gest_o_0_bootcampers_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 22:37:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</application>
+        <file_path/>
+        <instance_id>5ace1baa1b71f190c84543f4bd4bcbce</instance_id>
+        <instance_name>dev184573</instance_name>
+        <name>sys_ui_list_x_855180_gest_o_0_bootcampers_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_855180_gest_o_0_bootcampers" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_855180_gest_o_0_bootcampers" element="NULL" name="x_855180_gest_o_0_bootcampers" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">79d9528847c3311078db9530116d4342</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 22:37:01</sys_created_on><sys_id>fdd91a8847c3311078db9530116d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 22:37:01</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_855180_gest_o_0_bootcampers</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 22:37:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>79d9528847c3311078db9530116d4342</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_855180_gest_o_0_bootcampers</sys_name><sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope><sys_update_name>sys_ui_list_x_855180_gest_o_0_bootcampers_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 22:37:01</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-26568509</payload_hash>
+        <record_name>Bootcampers</record_name>
+        <reverted_from/>
+        <source>4135da374776311078db9530116d43bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 22:37:01</sys_created_on>
+        <sys_id>35d91a8847c3311078db9530116d4320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c414702370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 22:37:01</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>f1d91a888dc33110d42a31bbfb9df620</update_guid>
+        <update_guid_history>f1d91a888dc33110d42a31bbfb9df620:-26568509</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 22:37:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>1ca8f4fbace14ffeaf6730a262bbd991</sys_id>
+        <sys_metadata>79d9528847c3311078db9530116d4342</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_855180_gest_o_0_bootcampers</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package>
+        <sys_parent display_value="">f099528847c3311078db9530116d4332</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope>
+        <sys_scope_delete display_value="">1062f784612b4d438b5a1e2ef44bbc61</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_855180_gest_o_0_bootcampers_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_855180_gest_o_0_bootcampers_null">35d91a8847c3311078db9530116d4320</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 22:37:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

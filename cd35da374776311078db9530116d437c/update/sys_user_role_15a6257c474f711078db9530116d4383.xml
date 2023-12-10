@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Este role é exclusivas aos membros da supervisão.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_855180_gest_o_0.supervisores_role</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>supervisores_role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 02:48:47</sys_created_on>
+        <sys_id>15a6257c474f711078db9530116d4383</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_855180_gest_o_0.supervisores_role</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_855180_gest_o_0">cd35da374776311078db9530116d437c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">cd35da374776311078db9530116d437c</sys_scope>
+        <sys_update_name>sys_user_role_15a6257c474f711078db9530116d4383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 04:20:37</sys_updated_on>
+    </sys_user_role>
+</record_update>
